@@ -1,4 +1,4 @@
-# mohitha_1892
+# TREATMENT MANAGEMENT
 
 Treatment Management System
 The Treatment Management System is a simple, terminal-based application developed in C for managing patient treatment records efficiently. The system provides fundamental functionalities including adding new treatment details, searching for treatments by ID or patient name, updating existing treatment records, and deleting entries when necessary. All treatment information is stored persistently in a binary .dat file, ensuring that data remains available across multiple sessions. Designed for ease of use, the program offers a menu-driven interface suitable for beginners and small-scale healthcare setups. The project demonstrates basic concepts of file handling, data structures, and control flow in C, providing a practical solution for managing treatment data in a lightweight and accessible format.
